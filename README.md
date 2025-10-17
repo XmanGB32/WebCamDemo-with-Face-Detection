@@ -34,5 +34,5 @@ Fork the repo and submit pull requests. Open an issue for suggestions.
 [MIT License or your choice]
 
 ## Support
-Check my [C++ Newbie YouTube channel](https://www.youtube.com/c/cppnewbie) or the [GFA Basic forum](https://gfabasic.org/forum).
+Check my [C++ Noobie YouTube channel](https://www.youtube.com/@cppnoobie) or the [C++ NOOBIE forum](https://cppnoobie.proboards.com/).
 
